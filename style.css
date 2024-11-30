@@ -1,0 +1,10 @@
+.container{
+    background-image: url(../images/hotel2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bf{
+	position: center;
+}
